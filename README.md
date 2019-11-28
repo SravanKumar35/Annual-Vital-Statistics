@@ -1,5 +1,4 @@
-# Births-and-Deaths
+# Annual Vital Statistics
 
 
-THIS IS A LAB ASSIGNEMENT. I HAVE PERFORMED ANALYSIS ON ANNUAL VITAL STATISTICS REPORT-CRS FOR 4 YEARS 2011 2014 2015 2016. 
-I HAVE CALCULATED BASIC STATISTICS, DETECTING OUTLIERS, SOME PLOTS.
+This is a lab assignemnt. I have performed analysis on Annual Vital Statistics Report of Karnataka State for 4 years 2011 2014 2015 2016. I have calculated basics statistics, detecting outliers and have plotted some graphs.
